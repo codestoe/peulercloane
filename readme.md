@@ -1,4 +1,6 @@
-# Projectname : peulercloan : project euler + polyglot + koan + code + clone	
+# peulercloane
+
+peulercloane = project euler + polyglot + koan + code + clone
 
 Alternlative Name: peuler(g/c)loade
 
@@ -12,8 +14,7 @@ Alternlative Name: peuler(g/c)loade
 
 #About
 
-peulercloan is about learning programming languages. The same problems are solved in different programming languages.
-Premise is that the code is easy comprehensible for learners.
+peulercloane is about learning programming languages. The same problems are solved in different programming languages.
 
 ### For one programming language different solutions? 
 Of course! (eg. differnent language versions allow you to use different language features...)
@@ -33,7 +34,7 @@ Following tasks are required to solve
 - (Security/Crypto)
 - (Concurrency)
 
-# Tasks
+## Tasks
 
 * Read File .xml/.json
 * get content by textanalyzing (in the following refered to as stuff)
